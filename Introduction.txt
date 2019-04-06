@@ -1,0 +1,10 @@
+Python is an interpreted language, that is to say, the code you write in python will be "compiled" while it's being executed, so errors will appear when the code achieve the point they are thrown.
+
+Python is a high-level language that supports multiple programming paradigms as object-oriented, imperative, functional and procedural.
+
+Some of the most remarkable features of python could be:
+-Free software
+-Dynamic type
+-Automatic memory management
+-Loads and loads of libraries
+(Take a look at https://www.python.org/)
