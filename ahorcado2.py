@@ -74,7 +74,7 @@ def ahorcado():
 
 
         else:  # La letra escrita ya la he dicho, porque esta almacenada en la lista "told"
-            print("You already wrote it bastard!")
+            print("You already wrote it bastard!,  fails:", attempts, "\t","written words:",told )
 
 
 
@@ -84,7 +84,7 @@ def ahorcado():
 
     if attempts < 5 :
         print(array)
-        print("You won!")
+        print("You won!, the word was: ",word)
         print("Genius, crack")
     else:
         print("Loser")
